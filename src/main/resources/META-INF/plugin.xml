@@ -1,12 +1,9 @@
 <idea-plugin>
-    <id>org.example.my-intellij-plugin</id>
-    <name>Plugin display name here</name>
-    <vendor email="support@yourcompany.com" url="http://www.yourcompany.com">YourCompany</vendor>
+    <id>jp.cordea.my-intellij-plugin</id>
+    <name>My IntelliJ Plugin</name>
+    <vendor>cordea</vendor>
 
-    <description><![CDATA[
-    Enter short description for your plugin here.<br>
-    <em>most HTML tags may be used</em>
-    ]]></description>
+    <description/>
 
     <!-- please see https://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
          on how to target different products -->
