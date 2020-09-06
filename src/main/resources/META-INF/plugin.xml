@@ -16,5 +16,6 @@
 
     <actions>
         <!-- Add your actions here -->
+        <action class="SaveAndReformat"/>
     </actions>
 </idea-plugin>

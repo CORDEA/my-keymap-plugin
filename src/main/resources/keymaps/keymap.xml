@@ -8,7 +8,7 @@
         <keyboard-shortcut first-keystroke="home"/>
         <keyboard-shortcut first-keystroke="meta left"/>
     </action>
-    <action id="Macro.save and reformat">
+    <action id="SaveAndReformat">
         <keyboard-shortcut first-keystroke="meta s"/>
     </action>
     <action id="NextTab">
