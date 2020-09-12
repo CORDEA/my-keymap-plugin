@@ -1,6 +1,6 @@
 <idea-plugin>
-    <id>jp.cordea.my-intellij-plugin</id>
-    <name>My IntelliJ Plugin</name>
+    <id>jp.cordea.my-keymap-plugin</id>
+    <name>My Keymap</name>
     <vendor>cordea</vendor>
 
     <description/>
